@@ -22,5 +22,8 @@
   "license": "GNU v3",
   "bugs": {
     "url": "https://github.com/InKRNT/sudo/issues"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
   }
 }
