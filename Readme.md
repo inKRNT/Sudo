@@ -18,14 +18,19 @@ or
 ```
 sudo cmd
 ```
-^^^
-you can also use the following
+or just use 
 ```
 sudo
 ```
 this was insprired by https://github.com/tehsenaus/windosu
 right now its really simple but i will work more on it later feel free to contribute what you think is best.
 i will also try to write this in rust or c for it to be faster.
+## Update _logs
+added `sudo nano <file>`\
+this only accepts txt files for now and any thing else will be ignored.\
+for example, `sudo nano c:\coding_files\test.py`\
+will return
+`file test.py.txt does not exist, do you want make a new one?`
 
 if this appears
 ```
